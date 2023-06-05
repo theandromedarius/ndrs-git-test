@@ -1,3 +1,10 @@
+h1 {
+  text-align: center;
+  size: 3rem;
+  color: purple;
+  margin: 2rem;
+}
+
 .search-container {
   display: flex;
   flex-direction: column;
